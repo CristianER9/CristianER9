@@ -8,7 +8,7 @@
 
 ## About Me :
 
-- 🏢 I am currently working as a **Junior Software Engineer** at OTTOMATE
+- 🏢 I am currently working as a **Software Engineer** at OTTOMATE
 - 🎓 Studies for Software Engineering at [Victoria Polytechnic University](http://www.upvictoria.edu.mx/)
 - 🎓 Studies for Master of Engineering at [Victoria Polytechnic University](http://www.upvictoria.edu.mx/)
 - 🏡'Lives in **Victoria City Mexico**
